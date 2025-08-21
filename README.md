@@ -1,2 +1,2 @@
 # Proyect-CNC
-This project focused on applying supervised and unsupervised learning models to predict potential machine failures.
+This project presents a predictive maintenance system for industrial machinery using supervised and unsupervised learning techniques. Regression and classification models such as Random Forest, XGBoost, and Gradient Boosting were implemented, along with a soft voting ensemble to predict rotational speed and detect failures. Additionally, clustering and Principal Component Analysis (PCA) were applied to explore the main components and uncover relationships among them, providing deeper insights into the data structure. The SMOTE technique was also used to address class imbalance, significantly improving model performance.
