@@ -1,2 +1,2 @@
-# Proyecto-CNC
+# Proyecto - Mantenimiento predictivo
 Este proyecto presenta un sistema de mantenimiento predictivo para maquinaria industrial mediante técnicas de aprendizaje supervisado y no supervisado. Se implementaron modelos de regresión y clasificación como Random Forest, XGBoost y Gradient Boosting, junto con un conjunto de votación suave para predecir la velocidad de rotación y detectar fallos. Además, se aplicaron agrupamientos y análisis de componentes principales (PCA) para explorar los componentes principales y descubrir relaciones entre ellos, lo que proporcionó una comprensión más profunda de la estructura de datos. La técnica SMOTE también se empleó para abordar el desequilibrio de clases, lo que mejoró significativamente el rendimiento del modelo.
